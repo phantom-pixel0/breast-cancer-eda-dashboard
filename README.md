@@ -1,6 +1,7 @@
 # Breast Cancer EDA Dashboard
-
-https://github.com/phantom-pixel0/breast-cancer-eda-dashboard
+**view**
+https://breast-cancer-eda-dashboard-lrxuqzecqphzup6vccdew9.streamlit.app/
+DASHBOARD
 
 ## Project Overview
 This project explores a breast cancer dataset through Exploratory Data Analysis (EDA) and an interactive Streamlit dashboard.
